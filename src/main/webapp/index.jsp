@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jenkins Deployment Project</title>
+    <title>Jenkins Deployment Project DEMO 1</title>
 
     <style>
         body {
