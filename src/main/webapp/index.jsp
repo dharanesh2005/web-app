@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jenkins Deployment Project DEMO 1</title>
+    <title>Jenkins Deployment Project DEMO 1 </title>
 
     <style>
         body {
@@ -124,7 +124,7 @@
 
     <footer>
         <p>DevOps Project | Jenkins + GitHub + Nexus + Tomcat</p>
-        <p>© 2026 Sravan & Dharanesh</p>
+        <p>© 2026 Dharanesh </p>
     </footer>
 
 </body>
